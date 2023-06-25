@@ -1,1 +1,1 @@
-# SQL-Retail-Sales-Data-Exploration
+# SQL-Sales-Data-Exploration
