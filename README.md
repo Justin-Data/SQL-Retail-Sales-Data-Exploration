@@ -1,5 +1,7 @@
 # SQL-Sales-Data-Exploration
-Upon selecting a dataset from Kaggle and researching common metrics used in the retail industry, a list of questions were developed to guide my data exploration in SQL.
+Project brief:
+
+Upon selecting a dataset from Tableau and researching common metrics used in the retail industry, a list of questions were developed to guide data exploration in SQL. After utilizing a range of queries to investigate the data, Tableau was then used to visualize various findings and develop a dashboard.
 
 # Questions
 1) ~
