@@ -5,11 +5,11 @@ Upon selecting a dataset from Tableau and researching common metrics used in the
 
 # Questions
 1) What is the total sales, orders and items sold per year?
-2) What is the average transaction value  per year?
+2) What is the average transaction value per year?
 3) What is the average amount of items per transaction each year?
-4) How many order returns were there per year?
+4) How many order returns were there each year?
 5) What is the year-over-year (YOY) growth for sales?
-6) What is the monthly sales by each year?
+6) What is the monthly sales for each year?
 7) What are the top selling products?
 8) What are the best performing categories based on sales?
 9) How is the customer base segmented according to total sales?
