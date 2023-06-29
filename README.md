@@ -10,7 +10,7 @@ Upon selecting a dataset from Tableau and researching common metrics used in the
 4) How many order returns were there each year?
 5) What is the year-over-year (YOY) growth for sales?
 6) What is the monthly sales for each year?
-7) What are the top selling products?
+7) What are the top 10 selling products?
 8) Which category performed the best in regards to sales for 2017?
 9) How is the total items sold distributed across the customer base?
 10) What is the total sales per region?
