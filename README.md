@@ -22,5 +22,5 @@ Upon selecting a dataset from Tableau and researching common metrics used in the
 - Along with orders, returns have increased since the first year
 - The months of November and December had the most sales and orders for each year - office supplies were sold the most during this period
 - Binders and paper are the best-selling products for the company
-- Consumers purchase the most items compared to corporate and home office customers
+- Consumers have purchased the most items compared to corporate and home office customers
 - California and New York are the busiest locations for the company in regards to total sales and orders
