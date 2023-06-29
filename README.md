@@ -18,8 +18,9 @@ Upon selecting a dataset from Tableau and researching common metrics used in the
 # Summary of findings
 - Sales and orders have increased the most in the past two years
 - Average transaction value has seen a downward trend since the first year
+- January has the highest average units per transaction whilst February has the lowest
 - Along with orders, returns have increased since the first year
-- The months of November and December see the most sales and orders each year with office supplies being sold the most during this period
+- The months of November and December had the most sales and orders for each year - office supplies were sold the most during this period
 - Binders and paper are the best-selling products for the company
 - Consumers purchase the most items compared to corporate and home office customers
 - California and New York are the busiest locations for the company in regards to total sales and orders
