@@ -12,7 +12,7 @@ Upon selecting a dataset from Tableau and researching common metrics used in the
 6) What is the monthly sales for each year?
 7) What are the top selling products?
 8) What are the best performing categories based on sales?
-9) How is the customer base segmented according to total sales?
+9) How is the total items sold distributed across the customer base?
 10) What is the total sales per region?
 11) What is the breakdown of sales and orders by state?
 #
