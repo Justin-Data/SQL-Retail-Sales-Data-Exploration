@@ -15,4 +15,11 @@ Upon selecting a dataset from Tableau and researching common metrics used in the
 9) How is the total items sold distributed across the customer base?
 10) What is the total sales per region?
 11) What is the breakdown of sales and orders by state?
-#
+# Summary of findings
+- Sales and orders have increased the most in the past two years
+- Average transaction value has seen a downward trend since the first year
+- Order returns have increased since the first year
+- The months of November and December see the most sales and orders each year with office supplies being sold the most during this period
+- Binders and paper are the best-selling products for the company
+- Consumers purchase the most items compared to corporate and home office customers
+- California and New York are the busiest locations for the company in regards to total sales and orders
