@@ -3,8 +3,8 @@ Overview:
 
 Upon selecting a dataset from Tableau and researching common metrics used in the retail industry, a list of questions were developed to guide data exploration surrounding a retail store in SQL. After utilizing a range of queries to investigate the data, Tableau was then used to visualize various findings and develop a multi-page dashboard.
 
-The SQL queries can be accessed here: [Retail Sales Exploration.sql](https://github.com/Justin-Data/SQL-Sales-Data-Exploration/blob/main/Retail%20Sales%20Exploration.sql)    
-The Tableau dashboard can be accessed here: [Superstore Sales Dashboard](https://public.tableau.com/app/profile/justin.le.corre/viz/SuperstoreSalesDashboard_16878798683810/Dashboard1)
+The SQL queries can be accessed through 'Retail Sales Exploration.sql'    
+The Tableau dashboard can be viewed below while the interactive version can be accessed through [Tableau Public](https://public.tableau.com/app/profile/justin.le.corre/viz/SuperstoreSalesDashboard_16878798683810/Dashboard1)
 # Questions
 1) What is the total sales, orders and items sold per year?
 2) What is the average transaction value per year?
