@@ -138,6 +138,6 @@ SELECT State,
 	SUM(SALES) as Sales,
 	COUNT(DISTINCT OrderID) as Orders,
 	SUM(Quantity) as Items_Sold
-FROM orders
+FROM Orders
 GROUP BY State
 ORDER BY 2 DESC;
