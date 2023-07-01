@@ -32,4 +32,4 @@ The Tableau dashboard can be viewed below while the interactive version can be a
 
 With the use of Tableau, a dashboard was developed to present an overview of sales, orders and profit for the company. Each section can be accessed through the navigation in the upper right corner. Filters are also located in the left sidebar for filtering by year and region.
 
-The interactive version of this dashboard on Tableau Public can be accessed here: [Superstore Sales Dashboard](https://public.tableau.com/app/profile/justin.le.corre/viz/SuperstoreSalesDashboard_16878798683810/Dashboard1)
+The interactive version on Tableau Public can be accessed here: [Superstore Sales Dashboard](https://public.tableau.com/app/profile/justin.le.corre/viz/SuperstoreSalesDashboard_16878798683810/Dashboard1)
