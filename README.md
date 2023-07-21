@@ -22,7 +22,7 @@ The Tableau dashboard can be viewed below while the interactive version can be a
 2) Average transaction value has seen a downward trend since the first year - From $499 to $434
 3) January has the highest average units per transaction with 8.3 whilst February has the lowest with 6.5
 4) Along with orders, returns have increased since the first year with 53 in 2014 and 105 in 2017
-5) Total Sales decreased by 2.83% in the 2nd year, and then increased by 29.47% in the 3rd year and 20.36% in the 4th year
+5) Total sales decreased by 2.83% in the 2nd year, and then increased by 29.47% in the 3rd year and 20.36% in the 4th year
 6) The months of November and December had the most sales and orders for each year - office supplies were sold the most during this period
 7) Binders and paper are the best-selling products for the company
 8) The technology category has generated the most revenue despite not selling the most units
